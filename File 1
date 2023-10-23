@@ -5,4 +5,5 @@ int main(){
     printf("Nama saya %s\n", "Dior");
     printf("Usia saya %d\n", 19);
     return 0;
+    
 }
